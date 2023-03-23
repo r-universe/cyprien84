@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GPLTR"]
+	path = GPLTR
+	url = https://github.com/cran/GPLTR
+	shallow = true
+	registered = true
+[submodule "iBST"]
+	path = iBST
+	url = https://github.com/cran/iBST
+	shallow = true
+	registered = true
